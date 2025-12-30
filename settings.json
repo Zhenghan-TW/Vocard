@@ -6,10 +6,10 @@
     "mongodb_name": "YOUR_MONGODB_DB_NAME",
     "nodes": {
         "DEFAULT": {
-            "host": "lavalink",
-            "port": 2333,
-            "password": "youshallnotpass",
-            "secure": false,
+            "host": "lavalink_v4.muzykant.xyz",
+            "port": 443,
+            "password": "https://discord.gg/v6sdrD9kPh",
+            "secure": true,
             "identifier": "DEFAULT",
             "yt_ratelimit": {
                 "tokens": [],
