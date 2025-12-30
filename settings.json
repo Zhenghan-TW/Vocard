@@ -1,5 +1,5 @@
 {
-    "token": "YOUR_BOT_TOKEN",
+    "token": "",
     "client_id": 0,
     "genius_token": "YOUR_GENIUS_TOKEN",
     "mongodb_url": "YOUR_MONGODB_URL",
