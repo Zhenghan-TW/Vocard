@@ -1,9 +1,9 @@
 {
     "token": "",
     "client_id": 0,
-    "genius_token": "YOUR_GENIUS_TOKEN",
-    "mongodb_url": "YOUR_MONGODB_URL",
-    "mongodb_name": "YOUR_MONGODB_DB_NAME",
+    "genius_token": "",
+    "mongodb_url": "",
+    "mongodb_name": "",
     "nodes": {
         "DEFAULT": {
             "host": "lavalink_v4.muzykant.xyz",
