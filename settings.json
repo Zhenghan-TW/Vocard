@@ -21,12 +21,8 @@
             }
         }   
     },
-    "default_settings": {
-        "247": true,
-        "autoplay": true,
-        "volume": 100,
-        "lyrics": true
-    },
+    "247": true,
+    "autoplay": true,
     "prefix": "/",
     "activity": [
         {"type": "listening", "name": "幫助->/help", "status": "online"}
