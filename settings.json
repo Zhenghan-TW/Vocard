@@ -10,6 +10,7 @@
             "port": 443,
             "password": "https://dsc.gg/ajidevserver",
             "secure": true,
+            "identifier": "",
             "yt_ratelimit": {
                 "tokens": [],
                 "config": {
