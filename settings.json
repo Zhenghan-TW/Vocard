@@ -21,8 +21,6 @@
             }
         }   
     },
-    "247": true,
-    "autoplay": true,
     "prefix": "/",
     "activity": [
         {"type": "listening", "name": "幫助->/help", "status": "online"}
