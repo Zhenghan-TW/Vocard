@@ -22,7 +22,7 @@
         }   
     },
     "default_settings": {
-        "v247": true,
+        "247": true,
         "autoplay": true,
         "volume": 100,
         "lyrics": true
