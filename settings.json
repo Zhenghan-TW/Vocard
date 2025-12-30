@@ -6,9 +6,9 @@
     "mongodb_name": "",
     "nodes": {
         "DEFAULT": {
-            "host": "lavalink_v4.muzykant.xyz",
+            "host": "lavalinkv4.serenetia.com",
             "port": 443,
-            "password": "https://discord.gg/v6sdrD9kPh",
+            "password": "https://dsc.gg/ajidevserver",
             "secure": true,
             "identifier": "DEFAULT",
             "yt_ratelimit": {
