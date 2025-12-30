@@ -3,7 +3,7 @@ motor==3.6.0
 dnspython==2.6.1
 tldextract==3.2.1
 validators==0.18.2
-humanize==4.0.0
+humanize==4.15.0
 beautifulsoup4==4.11.1
 psutil==5.9.8
 aiohttp==3.12.14
