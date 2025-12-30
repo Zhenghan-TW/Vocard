@@ -21,7 +21,7 @@
             }
         }   
     },
-    "prefix": "?",
+    "prefix": "/",
     "activity": [
         {"type": "listening", "name": "/help", "status": "online"}
     ],
