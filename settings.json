@@ -146,7 +146,6 @@
                     "label": "@@t_buttonLeave@@",
                     "style": "red"
                 },
-            {
                 "tracks": {
                     "label": "@@t_playerDropdown@@",
                     "max_options": 10
