@@ -146,7 +146,7 @@
                 },
                 "autoplay": {
                     "emoji": "🔀",
-                    "label": ""
+                    "label": "@@t_buttonAutoplay@@"
                 }
             },
             {
