@@ -144,7 +144,7 @@
                     "label": "@@t_buttonLeave@@",
                     "style": "red"
                 },
-                "自動播放": {
+                "autoplay": {
                     "emoji": "🔀",
                     "label": "@@t_buttonAutoplay@@"
                 }
