@@ -10,7 +10,7 @@
             "port": 443,
             "password": "https://discord.gg/v6sdrD9kPh",
             "secure": true,
-            "identifier": "",
+            "identifier": "DEFAULT",
             "yt_ratelimit": {
                 "tokens": [],
                 "config": {
