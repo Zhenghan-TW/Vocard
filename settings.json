@@ -1,12 +1,12 @@
 {
     "token": "",
-    "client_id": 0,
+    "client_id": "",
     "genius_token": "",
     "mongodb_url": "",
     "mongodb_name": "",
     "nodes": {
         "DEFAULT": {
-            "host": "lava-v4.ajieblogs.eu.org",
+            "host": "lavalinkv4.serenetia.com",
             "port": 443,
             "password": "https://dsc.gg/ajidevserver",
             "secure": true,
