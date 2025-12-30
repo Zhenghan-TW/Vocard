@@ -6,7 +6,7 @@
     "mongodb_name": "",
     "nodes": {
         "DEFAULT": {
-            "host": "lavalink.serenetia.com",
+            "host": "lavalinkv4.serenetia.com",
             "port": 443,
             "password": "https://dsc.gg/ajidevserver",
             "secure": true,
