@@ -147,7 +147,6 @@
                 "autoplay": {
                     "emoji": "🔀",
                     "label": "@@t_buttonAutoplay@@"
-                    "style": "grey"
                 }
             },
             {
