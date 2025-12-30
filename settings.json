@@ -6,7 +6,7 @@
     "mongodb_name": "",
     "nodes": {
         "DEFAULT": {
-            "host": "lava-v4.ajieblogs.eu.org",
+            "host": "lavalinkv4.serenetia.com",
             "port": 443,
             "password": "https://dsc.gg/ajidevserver",
             "secure": true,
@@ -21,6 +21,8 @@
             }
         }   
     },
+    "autoplay": true
+    "247": true
     "prefix": "/",
     "activity": [
         {"type": "listening", "name": "幫助->/help", "status": "online"}
@@ -144,11 +146,6 @@
                     "label": "@@t_buttonLeave@@",
                     "style": "red"
                 },
-                "autoplay": {
-                    "emoji": "🔀",
-                    "label": "@@t_buttonAutoplay@@"
-                }
-            },
             {
                 "tracks": {
                     "label": "@@t_playerDropdown@@",
