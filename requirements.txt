@@ -1,5 +1,5 @@
 discord.py==2.6.4
-motor==3.6.0
+motor==3.7.1
 dnspython==2.8.0
 tldextract==5.3.1
 validators==0.18.2
