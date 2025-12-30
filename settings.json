@@ -144,9 +144,9 @@
                     "label": "@@t_buttonLeave@@",
                     "style": "red"
                 },
-                "add-fav": {
-                    "emoji": "❤️",
-                    "label": ""
+                "autoplay": {
+                    "emoji": "🔀",
+                    "label": "@@t_buttonAutoplay@@"
                 }
             },
             {
