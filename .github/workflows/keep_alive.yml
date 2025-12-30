@@ -1,0 +1,15 @@
+name: Keep Bot Alive
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch: 
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Render Website
+        run: |
+          curl -s https://vocard-7q4t.onrender.com > /dev/null
+          echo "Ping sent to Render at $(date)"
