@@ -13,4 +13,4 @@ RUN apt-get update && \
 
 USER lavalink
 
-ENTRYPOINT ["java", "-Djdk.tls.client.protocols=TLSv1.1,TLSv1.2", "-jar", "Lavalink.jar"]
+ENTRYPOINT ["java", "-Djdk.tls.client.protocols=TLSv1.2", "-jar", "Lavalink.jar"]
