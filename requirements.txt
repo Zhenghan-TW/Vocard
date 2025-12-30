@@ -4,7 +4,7 @@ dnspython==2.8.0
 tldextract==5.3.1
 validators==0.18.2
 humanize==4.15.0
-beautifulsoup4==4.11.1
+beautifulsoup4==4.14.3
 psutil==5.9.8
 aiohttp==3.12.14
 python-dotenv==1.2.1
