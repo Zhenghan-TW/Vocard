@@ -5,6 +5,6 @@ tldextract==5.3.1
 validators==0.18.2
 humanize==4.15.0
 beautifulsoup4==4.11.1
-psutil==5.9.8
+psutil==7.2.1
 aiohttp==3.12.14
 python-dotenv==1.2.1
