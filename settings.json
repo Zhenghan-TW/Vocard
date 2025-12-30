@@ -146,7 +146,7 @@
                 },
                 "autoplay": {
                     "emoji": "🔀",
-                    "label": "@@t_buttonAutoplay@@"
+                    "label": "自動播放"
                     "style": "grey"
                 }
             },
